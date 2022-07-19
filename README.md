@@ -6,4 +6,4 @@ I am currently looking for an opportunity to work as a Junior Full Stack Develop
 
 Skills: HTML / CSS / JavaScript / PHP
 
-Studying: React / TypeScript / Node.JS / Bulma / Saas + Bootstrap
+Studying: React / TypeScript / Node.JS / Bulma / Saas + Bootstrap / English
