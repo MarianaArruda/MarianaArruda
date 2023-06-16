@@ -10,7 +10,7 @@ Studying: React / TypeScript / Node.JS / Bulma / Saas + Bootstrap / English
 
 <div align="center">
   <a href="https://github.com/MarianaArruda">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarianaArruda&show_icons=true&include_all_commits=true&count_private=true&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarianaArruda&show_icons=true&include_all_commits=true&count_private=true&bg_color=30,FFF,D6DAFF&border_color=FFF&text_color=000&theme=dracula"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarianaArruda&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
